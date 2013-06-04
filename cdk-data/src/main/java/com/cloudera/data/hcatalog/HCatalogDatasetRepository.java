@@ -159,7 +159,6 @@ public class HCatalogDatasetRepository implements DatasetRepository {
 
     private FileSystem fileSystem;
     private Path rootDirectory;
-    private MetadataProvider metadataProvider;
     private Configuration configuration;
 
     /**
